@@ -1,0 +1,14 @@
+C:\Users\n.kumaraguru540\Documents\Nithish Velu\TextBased code\TextBased code\bin\Debug\net8.0\TextBased code.exe
+C:\Users\n.kumaraguru540\Documents\Nithish Velu\TextBased code\TextBased code\bin\Debug\net8.0\TextBased code.deps.json
+C:\Users\n.kumaraguru540\Documents\Nithish Velu\TextBased code\TextBased code\bin\Debug\net8.0\TextBased code.runtimeconfig.json
+C:\Users\n.kumaraguru540\Documents\Nithish Velu\TextBased code\TextBased code\bin\Debug\net8.0\TextBased code.dll
+C:\Users\n.kumaraguru540\Documents\Nithish Velu\TextBased code\TextBased code\bin\Debug\net8.0\TextBased code.pdb
+C:\Users\n.kumaraguru540\Documents\Nithish Velu\TextBased code\TextBased code\obj\Debug\net8.0\TextBased code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\n.kumaraguru540\Documents\Nithish Velu\TextBased code\TextBased code\obj\Debug\net8.0\TextBased code.AssemblyInfoInputs.cache
+C:\Users\n.kumaraguru540\Documents\Nithish Velu\TextBased code\TextBased code\obj\Debug\net8.0\TextBased code.AssemblyInfo.cs
+C:\Users\n.kumaraguru540\Documents\Nithish Velu\TextBased code\TextBased code\obj\Debug\net8.0\TextBased code.csproj.CoreCompileInputs.cache
+C:\Users\n.kumaraguru540\Documents\Nithish Velu\TextBased code\TextBased code\obj\Debug\net8.0\TextBased code.dll
+C:\Users\n.kumaraguru540\Documents\Nithish Velu\TextBased code\TextBased code\obj\Debug\net8.0\refint\TextBased code.dll
+C:\Users\n.kumaraguru540\Documents\Nithish Velu\TextBased code\TextBased code\obj\Debug\net8.0\TextBased code.pdb
+C:\Users\n.kumaraguru540\Documents\Nithish Velu\TextBased code\TextBased code\obj\Debug\net8.0\TextBased code.genruntimeconfig.cache
+C:\Users\n.kumaraguru540\Documents\Nithish Velu\TextBased code\TextBased code\obj\Debug\net8.0\ref\TextBased code.dll
